@@ -1,0 +1,8 @@
+{
+  "appId": "SampleApp",
+  "cluster" : "dev",
+  "namespaceNames" : ["dubbo.yaml"],
+  "ip" : "localhost:8080",
+  "oneNamespaceMode" : true,
+  "tagname" : "yaml"
+}
