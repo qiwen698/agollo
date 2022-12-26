@@ -11,6 +11,15 @@
 
 **go 1.9** 或更新
 
+## 版本发布管理docker
+
+**https://github.com/apolloconfig/apollo-quick-start**
+###启动版本服务
+```sh
+   #进入apollo-quick-start里
+    docker-compose up  #启动服务 docker-compose up -d #后台运行服务 
+```
+
 ## 安装
 
 ```sh
